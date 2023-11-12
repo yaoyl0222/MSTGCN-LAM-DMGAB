@@ -1,0 +1,4 @@
+data\temporal_data\train.npz filter=lfs diff=lfs merge=lfs -text
+data\temporal_data\test.npz filter=lfs diff=lfs merge=lfs -text
+data\temporal_data\val.npz filter=lfs diff=lfs merge=lfs -text
+data\original_data\metr-la.h5 filter=lfs diff=lfs merge=lfs -text
